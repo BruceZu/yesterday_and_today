@@ -5,4 +5,7 @@
 - [Shing-Tung Yau](https://en.wikipedia.org/wiki/Shing-Tung_Yau)
 
 # Aerospace engineering
-- [Neil Armstrong](https://www.youtube.com/watch?v=KJzOIh2eHqQ) [(wiki)](https://en.wikipedia.org/wiki/Neil_Armstrong)
+- [Neil Armstrong](https://en.wikipedia.org/wiki/Neil_Armstrong)
+  
+  - [interview](https://www.youtube.com/watch?v=KJzOIh2eHqQ)
+  - [Apollo-space-program](https://www.youtube.com/watch?v=CD-OcW3Qhjg) [link](https://www.britannica.com/science/Apollo-space-program)
