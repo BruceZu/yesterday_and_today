@@ -9,3 +9,4 @@
   
   - [interview](https://www.youtube.com/watch?v=KJzOIh2eHqQ)
   - [Apollo-space-program](https://www.youtube.com/watch?v=CD-OcW3Qhjg) [link](https://www.britannica.com/science/Apollo-space-program)
+# [Open Problems in Mathematical Physics](http://web.math.princeton.edu/~aizenman/OpenProblems_MathPhys/)
