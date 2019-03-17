@@ -3,7 +3,9 @@
 - [Shiing-Shen Chern](https://en.wikipedia.org/wiki/Shiing-Shen_Chern)
 - [Wu Wenjun](https://en.wikipedia.org/wiki/Wu_Wenjun)
 - [Shing-Tung Yau](https://en.wikipedia.org/wiki/Shing-Tung_Yau)
-
+# airplane
+- [程不时](https://zh.m.wikipedia.org/zh-hans/%E7%A8%8B%E4%B8%8D%E6%99%82)
+- [顾诵芬](https://zh.m.wikipedia.org/wiki/%E9%A1%BE%E8%AF%B5%E8%8A%AC)
 # Aerospace engineering
 - [Neil Armstrong](https://en.wikipedia.org/wiki/Neil_Armstrong)
   
