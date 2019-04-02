@@ -19,3 +19,6 @@
  - [钱七虎](https://en.wikipedia.org/wiki/Qian_Qihu)
  
 # [Open Problems in Mathematical Physics](http://web.math.princeton.edu/~aizenman/OpenProblems_MathPhys/)
+
+# AI Deep learning
+ - [Yoshua Bengio, Geoffrey Hinton, Yann LeCun](https://www.nytimes.com/2019/03/27/technology/turing-award-ai.html)
