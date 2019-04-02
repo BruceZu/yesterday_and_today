@@ -25,3 +25,4 @@
  - [ACM A.M. TURING AWARD](https://amturing.acm.org/)
 # Distuibuted system 
  - [Leslie Lamport](http://lamport.azurewebsites.net/pubs/pubs.html)
+ - [Martin Kleppmann](http://shop.oreilly.com/product/0636920032175.do)
